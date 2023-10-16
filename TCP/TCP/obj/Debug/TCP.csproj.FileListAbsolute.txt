@@ -1,0 +1,17 @@
+G:\VS\Projects\TCP\TCP\bin\Debug\TCP.exe.config
+G:\VS\Projects\TCP\TCP\bin\Debug\TCP.exe
+G:\VS\Projects\TCP\TCP\bin\Debug\TCP.pdb
+G:\VS\Projects\TCP\TCP\obj\Debug\TCP.csproj.AssemblyReference.cache
+G:\VS\Projects\TCP\TCP\obj\Debug\MainWindow.g.cs
+G:\VS\Projects\TCP\TCP\obj\Debug\App.g.cs
+G:\VS\Projects\TCP\TCP\obj\Debug\TCP_MarkupCompile.cache
+G:\VS\Projects\TCP\TCP\obj\Debug\TCP_MarkupCompile.lref
+G:\VS\Projects\TCP\TCP\obj\Debug\MainWindow.baml
+G:\VS\Projects\TCP\TCP\obj\Debug\TCP.g.resources
+G:\VS\Projects\TCP\TCP\obj\Debug\TCP.Properties.Resources.resources
+G:\VS\Projects\TCP\TCP\obj\Debug\TCP.csproj.GenerateResource.cache
+G:\VS\Projects\TCP\TCP\obj\Debug\TCP.csproj.CoreCompileInputs.cache
+G:\VS\Projects\TCP\TCP\obj\Debug\TCP.exe
+G:\VS\Projects\TCP\TCP\obj\Debug\TCP.pdb
+G:\VS\Projects\TCP\TCP\bin\Debug\SuperSimpleTcp.dll
+G:\VS\Projects\TCP\TCP\obj\Debug\TCP.csproj.CopyComplete
